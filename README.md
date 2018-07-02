@@ -1,2 +1,2 @@
-"# TUGAS10_CORDOVA" 
-"# TUGAS10_CORDOVA" 
+"# app cordova" 
+# app cordova
